@@ -1,2 +1,16 @@
 # Goose-Chase
-A fun and dynamic arcade game where you control a character, avoiding enemies and collecting bonuses to score points. Fast-paced action with random enemy and bonus spawns.
+
+## Опис
+
+Цей проєкт є простою аркадною грою, розробленою з використанням бібліотеки Pygame. У грі ви керуєте персонажем, що рухається по екрану, уникаючи ворогів і збираючи бонуси для набрання очок. Кожен раз, коли ви стикаєтеся з ворогом, ви втрачаєте життя, і коли вони закінчуються, гра завершується.
+
+## Встановлення
+
+1. Клонування репозиторію:
+   Спочатку клонувати репозиторій:
+
+   git clone https://github.com/davydenkobohdan/Goose-Chase.git
+   cd Goose-Chase
+
+2. Інсталяція залежностей:
+   pip install pygame
