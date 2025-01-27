@@ -9,8 +9,9 @@
 1. Клонування репозиторію:
 
    git clone https://github.com/davydenkobohdan/Goose-Chase.git
+   
    cd Goose-Chase
 
-2. Інсталяція залежностей:
+3. Інсталяція залежностей:
    
    pip install pygame
