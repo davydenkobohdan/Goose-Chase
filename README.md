@@ -7,10 +7,10 @@
 ## Встановлення
 
 1. Клонування репозиторію:
-   Спочатку клонувати репозиторій:
 
    git clone https://github.com/davydenkobohdan/Goose-Chase.git
    cd Goose-Chase
 
 2. Інсталяція залежностей:
+   
    pip install pygame
